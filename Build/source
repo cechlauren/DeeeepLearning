@@ -1,0 +1,7 @@
+git clone https://github.com/qupath/qupath
+cd qupath
+./gradlew clean jpackage
+#QuPath inside the ./build/dist/ subdirectory
+#for installer use:
+#./gradlew clean jpackage -P package=installer
+#credit:https://qupath.readthedocs.io/en/stable/docs/reference/building.html
