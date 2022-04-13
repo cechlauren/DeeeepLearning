@@ -23,7 +23,7 @@ U-net project with testing.
 │    └── tbd
 └── evaluation
     ├── tbd
-    └── matio_8_3.png
+    └── tbd
 ```
 
 ## USAGE
