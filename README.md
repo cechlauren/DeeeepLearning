@@ -1,4 +1,4 @@
-# Repository of code for deep learning approaches on WSIs, IHC, H&E, etc.
+# Deep learning approaches on WSIs, IHC, H&E, etc.
 
 [![Build
 Status](https://travis-ci.org/cechlauren/HW3_skeleton.svg?branch=master)](https://travis-ci.org/cechlauren/HW3_skeleton)
@@ -12,11 +12,9 @@ U-net project with testing.
 ├── intro
 ├── requirements.txt
 │   ...
-├── acquisition
+├── Acquisition
 │   ├── __main__.py
-│   ├── getimages.groovy
-│   ├── ExportFullImage.groovy
-│   ├── ExportAnnotations.groovy
+│   ├── *.groovy
 │   └── automation.py
 ├── test
 │    ├── tbd
