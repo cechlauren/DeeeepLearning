@@ -23,6 +23,6 @@ branches:
 # install dependencies listed in requirements
 install: "pip install -r requirements.txt"
 
-# run tests
-script:
-    "python -m pytest -v test/*"
+# will run once i have finished my set-up environment
+#script: 
+#    "python -m pytest -v test/*"
